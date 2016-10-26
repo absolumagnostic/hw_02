@@ -1,0 +1,44 @@
+
+
+
+td {
+    font-size: 15px;
+}
+
+a {
+    font-size: 14px;
+    font-weight: 900
+}
+
+a:link {
+    text-decoration: none;
+    color: red;
+}
+
+a:visited {
+    color: red;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: red;
+}
+
+a:active {
+    color: red;
+}
+
+.inner {
+    background: lightyellow;
+}
+
+.box {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    font-size: 23px;
+    font-family: Arial;
+    font-weight: 900;
+    line-height: 40px;
+    text-align: center;
+    background: #ffce00;
